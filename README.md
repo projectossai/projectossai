@@ -27,7 +27,7 @@ This README focuses specifically on how to use *this repository* effectively for
 * ✅ **Feature Requests:** Submit via the [**Issues Tab**](https://github.com/projectossai/projectossai/issues)
 * ✅ **Bug Reports:** Submit via the [**Issues Tab**](https://github.com/projectossai/projectossai/issues)
 * ✅ **Specific Feedback:** Submit via the [**Issues Tab**](https://github.com/projectossai/projectossai/issues)
-* ✅ **General Discussion & Questions:** Use the [Discussions Tab](https://github.com/projectossai/projectossai/discussions) (if enabled)
+* ✅ **General Discussion & Questions:** Use the [**Issues Tab**](https://github.com/projectossai/projectossai/issues)
 
 ## Guidelines for Interaction & Issue Submission 📜
 
